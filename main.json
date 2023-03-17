@@ -1,0 +1,599 @@
+[
+        {
+                "call": [
+                        {
+                                "incoming": "nodata"
+                        },
+                        {
+                                "outgoing": [
+                                        {
+                                                "negativetype": [
+                                                        {
+                                                                "type": "phone out of reach"
+                                                        },
+                                                        {
+                                                                "type": "number is invalid"
+                                                        },
+                                                        {
+                                                                "type": "company answering machine"
+                                                        },
+                                                        {
+                                                                "type": "no answer"
+                                                        },
+                                                        {
+                                                                "type": "silence"
+                                                        },
+                                                        {
+                                                                "type": "busy"
+                                                        },
+                                                        {
+                                                                "type": "fax"
+                                                        },
+                                                        {
+                                                                "type": "drop"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "unknownperson": [
+                                                        {
+                                                                "type": "hung up"
+                                                        },
+                                                        {
+                                                                "type": "dont know the client"
+                                                        },
+                                                        {
+                                                                "type": "call back later"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "client": [
+                                                        {
+                                                                "promise of pay": [
+                                                                        {
+                                                                                "type": "full payment"
+                                                                        },
+                                                                        {
+                                                                                "type": "partial payment"
+                                                                        },
+                                                                        {
+                                                                                "type": "discount"
+                                                                        }
+                                                                ]
+                                                        },
+                                                        {
+                                                                "refused to pay": [
+                                                                        {
+                                                                                "type": "client ilness"
+                                                                        },
+                                                                        {
+                                                                                "type": "ilness of death of relatives"
+                                                                        },
+                                                                        {
+                                                                                "type": "took a loan for a 3rd person"
+                                                                        },
+                                                                        {
+                                                                                "type": "departure outside of country"
+                                                                        },
+                                                                        {
+                                                                                "type": "decree or pension"
+                                                                        },
+                                                                        {
+                                                                                "type": "awaiting enforcement"
+                                                                        },
+                                                                        {
+                                                                                "type": "didn't get a loan"
+                                                                        },
+                                                                        {
+                                                                                "type": "does not work"
+                                                                        },
+                                                                        {
+                                                                                "type": "disagree with the amount"
+                                                                        },
+                                                                        {
+                                                                                "type": "waiting for salary"
+                                                                        },
+                                                                        {
+                                                                                "type": "pay off other loan"
+                                                                        },
+                                                                        {
+                                                                                "type": "other"
+                                                                        }
+                                                                ]
+                                                        },
+                                                        {
+                                                                "hungup": ""
+                                                        },
+                                                        {
+                                                                "paid according to the client": ""
+                                                        },
+                                                        {
+                                                                "call back later": ""
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "husbandorwife": [
+                                                        {
+                                                                "promise of pay": [
+                                                                        {
+                                                                                "type": "full payment"
+                                                                        },
+                                                                        {
+                                                                                "type": "partial payment"
+                                                                        },
+                                                                        {
+                                                                                "type": "discount"
+                                                                        }
+                                                                ]
+                                                        },
+                                                        {
+                                                                "refused to pay": [
+                                                                        {
+                                                                                "type": "client ilness"
+                                                                        },
+                                                                        {
+                                                                                "type": "ilness of death of relatives"
+                                                                        },
+                                                                        {
+                                                                                "type": "took a loan for a 3rd person"
+                                                                        },
+                                                                        {
+                                                                                "type": "departure outside of country"
+                                                                        },
+                                                                        {
+                                                                                "type": "decree or pension"
+                                                                        },
+                                                                        {
+                                                                                "type": "awaiting enforcement"
+                                                                        },
+                                                                        {
+                                                                                "type": "didn't get a loan"
+                                                                        },
+                                                                        {
+                                                                                "type": "does not work"
+                                                                        },
+                                                                        {
+                                                                                "type": "disagree with the amount"
+                                                                        },
+                                                                        {
+                                                                                "type": "waiting for salary"
+                                                                        },
+                                                                        {
+                                                                                "type": "pay off other loan"
+                                                                        },
+                                                                        {
+                                                                                "type": "other"
+                                                                        }
+                                                                ]
+                                                        },
+                                                        {
+                                                                "hung up": ""
+                                                        },
+                                                        {
+                                                                "call back later": ""
+                                                        },
+                                                        {
+                                                                "will transmit information": ""
+                                                        },
+                                                        {
+                                                                "paid": ""
+                                                        },
+                                                        {
+                                                                "refusal to trasfer payment": ""
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "parents": [
+                                                        {
+                                                                "promise of pay": [
+                                                                        {
+                                                                                "type": "full payment"
+                                                                        },
+                                                                        {
+                                                                                "type": "partial payment"
+                                                                        },
+                                                                        {
+                                                                                "type": "discount"
+                                                                        }
+                                                                ]
+                                                        },
+                                                        {
+                                                                "refused to pay": [
+                                                                        {
+                                                                                "type": "client ilness"
+                                                                        },
+                                                                        {
+                                                                                "type": "ilness of death of relatives"
+                                                                        },
+                                                                        {
+                                                                                "type": "took a loan for a 3rd person"
+                                                                        },
+                                                                        {
+                                                                                "type": "departure outside of country"
+                                                                        },
+                                                                        {
+                                                                                "type": "decree or pension"
+                                                                        },
+                                                                        {
+                                                                                "type": "awaiting enforcement"
+                                                                        },
+                                                                        {
+                                                                                "type": "didn't get a loan"
+                                                                        },
+                                                                        {
+                                                                                "type": "does not work"
+                                                                        },
+                                                                        {
+                                                                                "type": "disagree with the amount"
+                                                                        },
+                                                                        {
+                                                                                "type": "waiting for salary"
+                                                                        },
+                                                                        {
+                                                                                "type": "pay off other loan"
+                                                                        },
+                                                                        {
+                                                                                "type": "other"
+                                                                        }
+                                                                ]
+                                                        },
+                                                        {
+                                                                "hung up": ""
+                                                        },
+                                                        {
+                                                                "call back later": ""
+                                                        },
+                                                        {
+                                                                "will transmit information": ""
+                                                        },
+                                                        {
+                                                                "paid": ""
+                                                        },
+                                                        {
+                                                                "refusal to trasfer payment": ""
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "son or daughter": [
+                                                        {
+                                                                "promise of pay": [
+                                                                        {
+                                                                                "type": "full payment"
+                                                                        },
+                                                                        {
+                                                                                "type": "partial payment"
+                                                                        },
+                                                                        {
+                                                                                "type": "discount"
+                                                                        }
+                                                                ]
+                                                        },
+                                                        {
+                                                                "refused to pay": [
+                                                                        {
+                                                                                "type": "client ilness"
+                                                                        },
+                                                                        {
+                                                                                "type": "ilness of death of relatives"
+                                                                        },
+                                                                        {
+                                                                                "type": "took a loan for a 3rd person"
+                                                                        },
+                                                                        {
+                                                                                "type": "departure outside of country"
+                                                                        },
+                                                                        {
+                                                                                "type": "decree or pension"
+                                                                        },
+                                                                        {
+                                                                                "type": "awaiting enforcement"
+                                                                        },
+                                                                        {
+                                                                                "type": "didn't get a loan"
+                                                                        },
+                                                                        {
+                                                                                "type": "does not work"
+                                                                        },
+                                                                        {
+                                                                                "type": "disagree with the amount"
+                                                                        },
+                                                                        {
+                                                                                "type": "waiting for salary"
+                                                                        },
+                                                                        {
+                                                                                "type": "pay off other loan"
+                                                                        },
+                                                                        {
+                                                                                "type": "other"
+                                                                        }
+                                                                ]
+                                                        },
+                                                        {
+                                                                "hung up": ""
+                                                        },
+                                                        {
+                                                                "call back later": ""
+                                                        },
+                                                        {
+                                                                "will transmit information": ""
+                                                        },
+                                                        {
+                                                                "paid": ""
+                                                        },
+                                                        {
+                                                                "refusal to trasfer payment": ""
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "friend or girlfriend": [
+                                                        {
+                                                                "promise of pay": [
+                                                                        {
+                                                                                "type": "full payment"
+                                                                        },
+                                                                        {
+                                                                                "type": "partial payment"
+                                                                        },
+                                                                        {
+                                                                                "type": "discount"
+                                                                        }
+                                                                ]
+                                                        },
+                                                        {
+                                                                "refused to pay": [
+                                                                        {
+                                                                                "type": "client ilness"
+                                                                        },
+                                                                        {
+                                                                                "type": "ilness of death of relatives"
+                                                                        },
+                                                                        {
+                                                                                "type": "took a loan for a 3rd person"
+                                                                        },
+                                                                        {
+                                                                                "type": "departure outside of country"
+                                                                        },
+                                                                        {
+                                                                                "type": "decree or pension"
+                                                                        },
+                                                                        {
+                                                                                "type": "awaiting enforcement"
+                                                                        },
+                                                                        {
+                                                                                "type": "didn't get a loan"
+                                                                        },
+                                                                        {
+                                                                                "type": "does not work"
+                                                                        },
+                                                                        {
+                                                                                "type": "disagree with the amount"
+                                                                        },
+                                                                        {
+                                                                                "type": "waiting for salary"
+                                                                        },
+                                                                        {
+                                                                                "type": "pay off other loan"
+                                                                        },
+                                                                        {
+                                                                                "type": "other"
+                                                                        }
+                                                                ]
+                                                        },
+                                                        {
+                                                                "hung up": ""
+                                                        },
+                                                        {
+                                                                "call back later": ""
+                                                        },
+                                                        {
+                                                                "will transmit information": ""
+                                                        },
+                                                        {
+                                                                "paid": ""
+                                                        },
+                                                        {
+                                                                "refusal to trasfer payment": ""
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "another relative": [
+                                                        {
+                                                                "type": "hung up"
+                                                        },
+                                                        {
+                                                                "type": "call back later"
+                                                        },
+                                                        {
+                                                                "type": "will transmit information"
+                                                        },
+                                                        {
+                                                                "type": "paid"
+                                                        },
+                                                        {
+                                                                "type": "refusal to trasfer payment"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "collegue": [
+                                                        {
+                                                                "type": "hung up"
+                                                        },
+                                                        {
+                                                                "type": "call back later"
+                                                        },
+                                                        {
+                                                                "type": "will transmit information"
+                                                        },
+                                                        {
+                                                                "type": "paid"
+                                                        },
+                                                        {
+                                                                "type": "refusal to trasfer payment"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "familiar": [
+                                                        {
+                                                                "type": "hung up"
+                                                        },
+                                                        {
+                                                                "type": "call back later"
+                                                        },
+                                                        {
+                                                                "type": "will transmit information"
+                                                        },
+                                                        {
+                                                                "type": "paid"
+                                                        },
+                                                        {
+                                                                "type": "refusal to trasfer payment"
+                                                        }
+                                                ]
+                                        },
+                                        {
+                                                "third party knowing cient": [
+                                                        {
+                                                                "type": "hung up"
+                                                        },
+                                                        {
+                                                                "type": "call back later"
+                                                        },
+                                                        {
+                                                                "type": "will transmit information"
+                                                        },
+                                                        {
+                                                                "type": "paid"
+                                                        },
+                                                        {
+                                                                "type": "refusal to trasfer payment"
+                                                        }
+                                                ]
+                                        }
+                                ]
+                        }
+                ]
+        },
+        {
+                "motivation": [
+                        {
+                                "money": [
+                                        {
+                                                "money_type": "debt recalculation"
+                                        },
+                                        {
+                                                "money_type": "account bocking"
+                                        },
+                                        {
+                                                "money_type": "loyal offer"
+                                        },
+                                        {
+                                                "money_type": "deprevation  of benefits,socail payments"
+                                        }
+                                ]
+                        },
+                        {
+                                "property": [
+                                        {
+                                                "property_type": "inventory of property"
+                                        },
+                                        {
+                                                "property_type": "mandatory production"
+                                        },
+                                        {
+                                                "property_type": "barganing"
+                                        },
+                                        {
+                                                "property_type": "enforcement proceedings"
+                                        }
+                                ]
+                        },
+                        {
+                                "reputation": [
+                                        {
+                                                "rep_type": "psycologica discomfort(sms,calls,IVR,letters"
+                                        },
+                                        {
+                                                "rep_type": "liability before the law(covering the debtor"
+                                        },
+                                        {
+                                                "rep_type": "loan made for you"
+                                        },
+                                        {
+                                                "rep_type": "loyal offer"
+                                        },
+                                        {
+                                                "rep_type": "calls to work"
+                                        },
+                                        {
+                                                "rep_type": "calls to neighbours or city hall/mail"
+                                        },
+                                        {
+                                                "rep_type": "prohibition to conclude any contract or obtain a passport"
+                                        }
+                                ]
+                        },
+                        {
+                                "status": [
+                                        {
+                                                "status_type": "black list"
+                                        },
+                                        {
+                                                "status_type": "travel ban"
+                                        },
+                                        {
+                                                "status_type": "court"
+                                        },
+                                        {
+                                                "status_type": "visiting group"
+                                        },
+                                        {
+                                                "status_type": "transfer to a collection company"
+                                        },
+                                        {
+                                                "status_type": "sale to third parties"
+                                        }
+                                ]
+                        },
+                        {
+                                "fraud": [
+                                        {
+                                                "fraud_type": "law enforcement"
+                                        },
+                                        {
+                                                "fraud_type": "summons for interrogation"
+                                        },
+                                        {
+                                                "fraud_type": "criminal law analysis"
+                                        }
+                                ]
+                        },
+                        {
+                                "relative": [
+                                        {
+                                                "relative_type": "foreclosure on children"
+                                        },
+                                        {
+                                                "relative_type": "social services,contatcting educational institutions"
+                                        },
+                                        {
+                                                "relative_type": "contacting gaurdianship authorities"
+                                        },
+                                        {
+                                                "relative_type": "foreclosure on parents"
+                                        }
+                                ]
+                        },
+                        {
+                                "didint use arugement": "comments"
+                        }
+                ]
+        }
+]
